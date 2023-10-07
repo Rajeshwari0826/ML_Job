@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/earth.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My job website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Here is my representation of my work",
+    url: "https://www.linkedin.com/in/rajeshwari-pradhan-8490a5258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BX%2Bd%2BcdUzQ6CcsE1CfY2AXw%3D%3D",
   },
   {
-    title: "Web Development for Beginners",
+    title: "follow me drone",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "follow me drone ith upgratation",
+    url: "https://github.com/Rajeshwari0826/Follow-me-drone",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Here is my resume",
+    url: "https://drive.google.com/file/d/1A0Iapy0C_Kkh9u1F-JfUiXYKzI2sOjPu/view?usp=drive_link",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "mine.jk",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "To explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+    url: "https://github.com/Rajeshwari0826/Follow-me-drone",
   },
 ];
 

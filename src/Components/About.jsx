@@ -16,24 +16,24 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/artificial-intelligence.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "AI abstract background";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am an stage 2 level AI developer studying at Chandighar University. I enjoy to give to machine ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
+  "AI Developer",
   "Web design",
-  "User experience",
-  "Inclusive design",
+  "Logo design",
   "Focus group testing",
   "Mobile user interfaces",
   "Graphic design",
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "This is my portfolio as a developer and designer";
 
 const About = () => {
   return (
